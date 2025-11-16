@@ -1,0 +1,1 @@
+Our project is currently 50% complete the remaining modules and integrations will be completed on the day of the hackathon. Our team is actively working, and we will ensure a fully functional demo at the event.
